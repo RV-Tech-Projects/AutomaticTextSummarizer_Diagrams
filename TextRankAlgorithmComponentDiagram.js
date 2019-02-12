@@ -125,7 +125,7 @@ window.onload = function () {
 
         // Text Rank Algorithm - Block Diagram
             canvasTextContext.font = '50px Arial';
-            canvasTextContext.fillText("Text Rank Algorithm - Block Diagram", 300, 600);
+            canvasTextContext.fillText("Text Rank Algorithm - Component Diagram", 300, 600);
 };
 
 function drawFilledRect(context, x, y, width, height, color) {

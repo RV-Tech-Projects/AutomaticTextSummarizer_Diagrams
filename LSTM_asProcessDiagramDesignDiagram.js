@@ -85,7 +85,7 @@ window.onload = function () {
             writeText("Summary", 30, 995, 675);
 
         // Title:
-            writeText("LSTM - ATS: Block Diagram", 70, 200, 850);
+            writeText("LSTM - ATS: Process Diagram", 70, 200, 850);
 };
 
 
